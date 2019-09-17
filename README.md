@@ -2,7 +2,7 @@
 
 [Unincor](http://www.unincor.br)
 
-** Professor: ** Thiago Giovanella
+### Professor: Thiago Giovanella
 _prof.thiago.giovanella (at) unincor dot edu dot br_
 
 [Blog do Professor](http://www.tgiovanella.com.br)
