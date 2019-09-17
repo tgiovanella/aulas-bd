@@ -4,8 +4,8 @@
 
 ## Conteúdo:
 
-1. [] Criação do banco
-2. [] Criação das tabelas
+1. [X] Criação do banco
+2. [X] Criação das tabelas
 3. [] Inserção de dados
 4. [] Extração dos relatórios
 
